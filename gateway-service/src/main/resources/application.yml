@@ -1,0 +1,31 @@
+spring:
+  cloud:
+    gateway:
+      mvc:
+        routes:
+          - id: user-service
+            uri: http://localhost:8081
+            predicates:
+              - Path=/users/**
+          - id: job-service
+            uri: http://localhost:8082
+            predicates:
+              - Path=/jobs/**
+          - id: task-service
+            uri: http://localhost:8083
+            predicates:
+              - Path=/tasks/**
+          - id: matcher-service
+            uri: http://localhost:8084
+            predicates:
+              - Path=/match/**
+          - id: matcher-service
+            uri: http://localhost:8084
+            predicates:
+              - Path=/match/**
+
+  application:
+    name: gateway-service
+
+server:
+  port: 8080

@@ -1,0 +1,168 @@
+{
+  "jobTypes": [
+    {
+      "category": "Home Services",
+      "subcategories": [
+        "Plumbing",
+        "Electrical Repairs",
+        "Home Cleaning",
+        "Painting",
+        "Laundry",
+        "Carpentry",
+        "Pest Control",
+        "Appliance Repair",
+        "Water Purifier Maintenance",
+        "Interior Decoration"
+      ]
+    },
+    {
+      "category": "Hardware & Software",
+      "subcategories": [
+        "Computer/Laptop Repair",
+        "Mobile Repair",
+        "Software Sales",
+        "Network Installation",
+        "Security Hardware",
+        "Computer/Components sales",
+        "It Assistance",
+        "Hardware Repair"
+      ]
+    },
+    {
+      "category": "Creative & Design",
+      "subcategories": [
+        "Graphic Design",
+        "Video Editing",
+        "Content Writing",
+        "Photography",
+        "Illustration",
+        "Animation",
+        "Social Media Management",
+        "Wedding Video Editing",
+        "Drone renting"
+      ]
+    },
+    {
+      "category": "Business Services",
+      "subcategories": [
+        "Accounting",
+        "Tax Filing",
+        "Consulting",
+        "Data Entry",
+        "Market Research",
+        "Legal Assistance",
+        "GST Registration",
+        "Startup Consulting"
+      ]
+    },
+    {
+      "category": "Delivery Services",
+      "subcategories": [
+        "Food Delivery",
+        "Package Delivery",
+        "Courier Services",
+        "Document Delivery",
+        "Heavy Goods Transport",
+        "Vegetable and Grocery Delivery",
+        "Errands"
+      ]
+    },
+    {
+      "category": "Health & Wellness",
+      "subcategories": [
+        "Personal Training",
+        "Yoga Instruction",
+        "Dietary Consultation",
+        "Massage Therapy",
+        "Home Nursing",
+        "Physiotherapy",
+        "Ayurvedic Treatment",
+        "Counseling Services"
+      ]
+    },
+    {
+      "category": "Education & Tutoring",
+      "subcategories": [
+        "Math Tutoring",
+        "Language Tutoring",
+        "Music Lessons",
+        "Coding Lessons",
+        "Exam Preparation",
+        "Art Classes",
+        "Home Tuition",
+        "Spoken English Coaching"
+      ]
+    },
+    {
+      "category": "Automotive Services",
+      "subcategories": [
+        "Car Repair",
+        "Bike Repair",
+        "Car Washing",
+        "Battery Replacement",
+        "Tire Replacement",
+        "Car Dry Cleaning",
+        "Roadside Assistance",
+        "Car decoration"
+      ]
+    },
+    {
+      "category": "Event Management",
+      "subcategories": [
+        "Wedding Planning",
+        "Catering",
+        "Photography",
+        "Sound & Lighting",
+        "Event Decoration",
+        "Entertainment Services",
+        "Mehendi Artists",
+        "Band Services"
+      ]
+    },
+    {
+      "category": "Construction & Real Estate",
+      "subcategories": [
+        "Masonry Work",
+        "Interior Designing",
+        "Architectural Services",
+        "Civil Engineering",
+        "Property Management",
+        "Real Estate Agent Services"
+      ]
+    },
+    {
+      "category": "Transportation Services",
+      "subcategories": [
+        "Packers and Movers",
+        "Driver on Hire",
+        "Vehicle Rentals",
+        "Tempo Services",
+        "School Van Services",
+        "Shuttle Services"
+      ]
+    },
+    {
+      "category": "Artisan Services",
+      "subcategories": [
+        "Tailoring",
+        "Embroidery",
+        "Handicrafts",
+        "Pottery",
+        "Custom Jewelry Making"
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "subcategories": [
+        "Pet Sitting",
+        "Baby Sitting",
+        "Elderly Care",
+        "Errand Running",
+        "Furniture Assembly",
+        "Online Form Filling",
+        "Cooking Services",
+        "Mehendi Application"
+      ]
+    }
+  ]
+}
